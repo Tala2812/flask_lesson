@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand, .nav-link {
+    color: #e83e8c !important;
+}
+
+.img-fluid {
+    border: 2px solid #e83e8c;
+}
